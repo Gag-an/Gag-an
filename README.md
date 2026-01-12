@@ -25,8 +25,8 @@ const gagan = {
   currentlyBuilding: "Hack Capsule 🚀",
   learning: ["MERN Stack", "AI Tools", "System Design"],
   interests: ["Web Dev", "UI/UX", "AI + Business"],
-  funFact: "I debug more than I sleep 🫠"
-}
+  funFact: "I debug more than I sleep "
+};
 
 🧠 Tech Stack
 👩‍💻 Languages
