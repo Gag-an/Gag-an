@@ -26,7 +26,7 @@
 ## 🌸 About Me  
 
 ```js
-const gagan = {
+ gagan = {
   role: "Full Stack Developer",
   currentlyBuilding: "Hack Capsule 🚀",
   learning: ["MERN Stack", "AI Tools", "System Design"],
