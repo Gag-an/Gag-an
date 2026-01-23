@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Gag-an"><img src="https://img.shields.io/badge/LinkedIn-Gagandeep%20Kaur-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:gagkaur274@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/Gag-an"><img src="https://img.shields.io/badge/GitHub-Gag--an-black?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/Gag-an">
+    <img src="https://img.shields.io/badge/LinkedIn-Gagandeep%20Kaur-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:gagkaur274@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Gag-an">
+    <img src="https://img.shields.io/badge/GitHub-Gag--an-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <p align="center">
@@ -25,17 +31,11 @@ const gagan = {
   currentlyBuilding: "Hack Capsule 🚀",
   learning: ["MERN Stack", "AI Tools", "System Design"],
   interests: ["Web Dev", "UI/UX", "AI + Business"],
-  funFact: "I debug more than I sleep "
+  funFact: "I debug more than I sleep"
 };
 
 
 
-👉 **STOP. Code ends here.**  
-Do **NOT** write anything else before closing ```.
-
----
-
-### ✅ 2. Tech Stack (NORMAL markdown, NOT code)
 
 ```md
 ---
@@ -67,15 +67,13 @@ Do **NOT** write anything else before closing ```.
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
+---
 
-🏅 Top 12 Finalist – Hack-O-Octo 3.0
+## 🏆 Achievements & Experience  
 
-📜 Pearson Data Analytics Certified (2025)
-
-🎨 Technical & Design Team Member – CSBIZ Nexus Society
-
-💌 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/Gag-an"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:gagkaur274@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Say%20Hi-red?style=for-the-badge&logo=gmail"> </a> </p> <p align="center"> ✨ <i>Stars on my repos make my day — just saying</i> 😌✨ </p> ```
+- 🏅 **Top 12 Finalist – Hack-O-Octo 3.0**
+- 📜 **Pearson Data Analytics Certified (2025)**
+- 🎨 **Technical & Design Team Member – CSBIZ Nexus Society**
 
 ---
 
@@ -83,6 +81,34 @@ Do **NOT** write anything else before closing ```.
 
 ### 🧩 Hack Capsule  
 - Hackathon ideation & collaboration platform  
-- MERN Stack  
+- Built using **MERN Stack**  
 - 🏆 Top 12 Finalist – Hack-O-Octo 3.0  
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gag-an&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gag-an&theme=radical" />
+</p>
+
+---
+
+## 💌 Let’s Connect  
+
+<p align="center">
+  <a href="https://linkedin.com/in/Gag-an">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:gagkaur274@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<p align="center">
+  ✨ <i>Stars on my repos make my day — just saying</i> 😌✨
+</p>
