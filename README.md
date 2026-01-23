@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Gag-an&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
----
+
 
 ## 🌸 About Me  
 
@@ -37,78 +37,5 @@ const gagan = {
 
 
 
-```md
----
 
-## 🧠 Tech Stack  
 
-### 👩‍💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,sql" />
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,figma" />
-</p>
-
-### 🔧 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-## 🏆 Achievements & Experience  
-
-- 🏅 **Top 12 Finalist – Hack-O-Octo 3.0**
-- 📜 **Pearson Data Analytics Certified (2025)**
-- 🎨 **Technical & Design Team Member – CSBIZ Nexus Society**
-
----
-
-## 🚀 Featured Projects  
-
-### 🧩 Hack Capsule  
-- Hackathon ideation & collaboration platform  
-- Built using **MERN Stack**  
-- 🏆 Top 12 Finalist – Hack-O-Octo 3.0  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gag-an&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gag-an&theme=radical" />
-</p>
-
----
-
-## 💌 Let’s Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/Gag-an">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:gagkaur274@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-<p align="center">
-  ✨ <i>Stars on my repos make my day — just saying</i> 😌✨
-</p>
