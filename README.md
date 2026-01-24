@@ -34,6 +34,40 @@ const gagan = {
   funFact: "I debug more than I sleep"
 };
 
+```
+
+## 🧠 Tech Stack
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,sql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## 🚀 Currently Working On
+- Hack Capsule 🚀  
+- Improving system design fundamentals  
+- Exploring AI + Web products
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gag-an&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gag-an&theme=radical" />
+</p>
+
 
 
 
