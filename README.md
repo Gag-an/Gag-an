@@ -28,11 +28,12 @@ Me, but make it JavaScript ✨
 ```js
 const gagan = {
   role: "Full Stack Developer",
-  currentlyBuilding: "Hack Capsule 🚀",
+  currentlyBuilding: "Hack Capsule",
   learning: ["MERN Stack", "AI Tools", "System Design"],
-  interests: ["Web Dev", "UI/UX", "AI + Business"],
-  funFact: "I debug more than I sleep"
+  interests: ["Web Development", "UI/UX Design", "AI-driven Products"],
+  funFact: "I enjoy solving complex bugs and optimizing code"
 };
+
 
 ```
 
@@ -60,13 +61,16 @@ const gagan = {
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gag-an&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gag-an&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gag-an&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gag-an&theme=radical&hide_border=true" />
 </p>
+
 
 
 
