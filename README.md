@@ -22,11 +22,11 @@
 </p>
 
 
-
+Me, but make it JavaScript ✨
 ## 🌸 About Me  
 
 ```js
- gagan = {
+const gagan = {
   role: "Full Stack Developer",
   currentlyBuilding: "Hack Capsule 🚀",
   learning: ["MERN Stack", "AI Tools", "System Design"],
